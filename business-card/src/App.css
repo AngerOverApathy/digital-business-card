@@ -57,7 +57,7 @@ body {
 }
 
 .title > h3 {
-  color: bisque;
+  color: rgb(236, 169, 87);
   font-size: 20px;
 }
 
@@ -65,6 +65,11 @@ body {
   font-size: 12px;
   font-weight: 400;
   line-height: 150%;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(219, 212, 212);
 }
 
 .email {
@@ -80,4 +85,5 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 0 0 10px 10px;
 }
