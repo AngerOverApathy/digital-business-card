@@ -5,8 +5,8 @@ function MainContent() {
         <div className="main-content">
             <div className="title">
                 <h1>Jessica Versoza</h1>
-                <h3>Software Develoer</h3>
-                <a href="https://versoza-tech.netlify.app/"><p>versoza-tech.netlify.com</p></a>
+                <h3>Software Developer</h3>
+                <a href="https://vsza-tech.netlify.app/"><p>vsza-tech.netlify.com</p></a>
                 <button className="email"><a href="mailto:jfverse@gmail.com">Email</a></button>
             </div>
             <div className="left-align">
